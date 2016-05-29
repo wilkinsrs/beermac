@@ -64,6 +64,7 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
+  text-decoration: none;
 }
 
 #logo:hover {
@@ -74,4 +75,15 @@ p {
 #logo:visited {
     color: #CCC;
     text-decoration: none;
+}
+
+/* about */
+
+.ryan {
+  width: 225px;
+  float: left;
+  padding: 1px;
+  border: 1px solid #021a40;
+  background-color: #fff;
+  margin-right: 25px;
 }
